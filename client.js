@@ -14,7 +14,7 @@ request.post(config.provider, function (err, response, body) {
 	var data = JSON.parse(body);
   console.log(data.token);
   if (err && response.statusCode != 200) {
-  	console.error('Failed to get response');
+  	console.error(err);
     process.exit(1);
   }
 
