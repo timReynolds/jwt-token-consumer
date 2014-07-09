@@ -1,4 +1,4 @@
 {
 	"provider": "http://localhost:1546/",
-	"cert": "id_local_test.pub"
+	"cert": "mykey.pub"
 }
