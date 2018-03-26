@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jsonwebtoken": "^0.4.0",
+    "jsonwebtoken": "^8.0.0",
     "request": "^2.37.0"
   }
 }
